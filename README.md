@@ -1,1 +1,1 @@
-# User_input.py
+A simple program that takes in a users' input.
